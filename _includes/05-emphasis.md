@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+ *I learn things differently*,
+ **I love javascript becasue its a bit simpler to understand for bigginers**,
+ _Am an **introvert** by nature_
