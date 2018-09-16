@@ -1,1 +1,4 @@
-Replace this with a link to your a GitHub or social media profile.
+[Github](https://github.com/Anekenonso)
+[LinkedIn](https://www.linkedin.com/in/okenwakenneth/)
+[twitter](https://twitter.com/Anekenonso1)
+[devTo](https://dev.to/anekenonso)
